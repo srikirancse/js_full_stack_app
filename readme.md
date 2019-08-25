@@ -10,3 +10,5 @@ $ npm install - To download the dependencies
 $ npm run dev-server - To start the development server
 $ npm run dev-bundle - To run the webpack bundler to make the react to work
 ```
+
+Credits: https://jscomplete.com/learn/1rd-reactful
